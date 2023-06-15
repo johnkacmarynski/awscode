@@ -1,0 +1,2 @@
+# awscode
+gitrepo for aws
